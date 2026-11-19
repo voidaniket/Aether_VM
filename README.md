@@ -53,8 +53,8 @@ aether_project/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/aether-adaptive-vm.git
-   cd aether-adaptive-vm
+   git clone https://github.com/voidaniket/Aether_VM.git
+   cd Aether_VM
    ```
 
 2. **Run the prototype:**
